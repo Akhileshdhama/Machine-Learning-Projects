@@ -1,0 +1,5 @@
+DecisionTreeRegressor()
+	Mean:4.194981611786443
+	Standard deviation:0.8770217110492018RandomForestRegressor()
+	Mean:3.372390783311851
+	Standard deviation:0.6706354394312037
